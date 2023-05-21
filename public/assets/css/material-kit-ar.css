@@ -1,0 +1,36 @@
+p{
+    text-align: right!important;
+}
+.ar-flex-row-reverse{
+    flex-direction: row-reverse!important;
+}
+/*h5{*/
+/*    text-align: right!important;*/
+/*}*/
+/*h2{*/
+/*    text-align: right!important;*/
+/*}*/
+/*label{*/
+/*    text-align: right!important;*/
+/*}*/
+/*input{*/
+/*    text-align: right!important;*/
+/*}*/
+
+p,h1,h2,h3,h4,h5,h6,label,input,textarea{
+    text-align: right!important;
+    direction: rtl;
+}
+.ps-3{
+    padding-right: 1rem !important;
+}
+.ar-text-align-center{
+    text-align: center!important;
+}
+.ar-text-start{
+    text-align: start!important;
+}
+.ar-alert{
+    direction: rtl;
+    text-align: right;
+}
